@@ -4,7 +4,6 @@ Project install
 /php artisan migrate
 
 - Create new database
-- 
 - Setup database in .ENV file
 
 
